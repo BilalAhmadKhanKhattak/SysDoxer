@@ -79,7 +79,10 @@ If you are wondering (or not) why I named this program as SysDoxer, actually, I 
 Spread Love!
 Hatred has already destroyed many.
 
+## License
+This project is licensed under the CC BY-NC 4.0 LEGAL CODE Attribution-NonCommercial 4.0 International License - see the [LICENSE](https://github.com/BilalAhmadKhanKhattak/SysDoxer/blob/main/LICENSE) file for details
 
-Author:
+
+## Author:
 Bilal Ahmad Khan Also Known As Mr. BILRED
 
