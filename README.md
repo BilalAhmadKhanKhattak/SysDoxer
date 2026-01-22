@@ -72,6 +72,13 @@ dotnet run SysDoxer.cs
 Then Enjoy using SysDoxer!
 <img width="425" height="321" alt="image" src="https://github.com/user-attachments/assets/732aabd3-7650-4c04-a36a-edf3f8e565d8" />
 
+Some talk:
+If you are wondering (or not) why I named this program as SysDoxer, actually, I had other projects which had this suffix i.e CamDoxer, LinkxDoxer, SubDoxer, WalletDoxer so SysDoxer would make some sort of streak!
+
+
+Spread Love!
+Hatred has already destroyed many.
+
 
 Author:
 Bilal Ahmad Khan Also Known As Mr. BILRED
