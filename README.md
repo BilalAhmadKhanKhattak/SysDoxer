@@ -1,5 +1,5 @@
 # SysDoxer
-A lightweight C#/.NET console tool that explores system-level information such as process identity, loaded modules (DLLs), local IP addresses, and network interfaces, demonstrating how managed code can still directly interact with the operating system.
+A C#/.NET console tool that explores system-level information such as process identity, loaded modules (DLLs), local IP addresses, and network interfaces, demonstrating how managed code can still directly interact with the operating system. SysDoxer also includes an **Off-Sys-Level feature** which displays device Public IP (requires internet).
 
 <img width="757" height="316" alt="image" src="https://github.com/user-attachments/assets/c241cc9f-6004-48d7-b268-76557ea27431" />
 
@@ -31,7 +31,7 @@ This program isn't "THAT" deep, yet it may provide a glimpse of touching the sys
 - Show **local IP address, subnet mask, and gateway**
 - Inspect the **current running process**
 - List **loaded DLLs/modules**
-- Fetch **public IP address** (when internet is available) Yeah, This one IS NOT SYSTEM LEVEL, Okay? Must Understand the difference between Private IP and Public IP
+- Fetch **public IP address** (when internet is available) Yeah, **This one IS NOT SYSTEM LEVEL**, Okay? Must Understand the difference between Private IP and Public IP
 
 ---
 
