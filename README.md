@@ -1,5 +1,5 @@
 # SysDoxer
-A lightweight C#/.NET console tool that explores system-level information such as process identity, loaded modules (DLLs), local IP addresses, and network interfaces — demonstrating how managed code can still directly interact with the operating system.
+A lightweight C#/.NET console tool that explores system-level information such as process identity, loaded modules (DLLs), local IP addresses, and network interfaces, demonstrating how managed code can still directly interact with the operating system.
 
 <img width="757" height="316" alt="image" src="https://github.com/user-attachments/assets/c241cc9f-6004-48d7-b268-76557ea27431" />
 
@@ -8,7 +8,7 @@ A lightweight C#/.NET console tool that explores system-level information such a
 
 This project is driven by **curiosity, self-learning, and system-level understanding**, not academic requirements.
 
-actually, in some sense I was helping somebody else, in some way, but when I saw visual studio, dotnet and searched a little about C#, it really got my attention
+Actually, in some sense I was helping somebody else, in some way, but when I saw visual studio, dotnet and searched a little about C#, it really got my attention
 Though I have worked on Python, you may say, and it leads in some domains really good, but, C#, I can say, it HAS THE GUTS OF FREEDOM.
 like, in just some "not so long code" you can talk to the system!
 and the other feature which got my attention was
@@ -18,7 +18,6 @@ Although, C# has nothing to do with my academic semester, atleast yet.
 but you know what! Curiosity, Self Teaching and Self Driven Quality is important.... For me? Yeah it IS VERY IMPORTANT
 
 This program isn't "THAT" deep, yet it may provide a glimpse of touching the system stuff, like DLLs, basic system info, Local IP address (even without internet, LAN IP still exists), Network Interfaces. 
-
 ---
 
 ## 🔍 Features
