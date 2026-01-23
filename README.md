@@ -1,10 +1,10 @@
 # SysDoxer
-A C#/.NET console tool that explores system-level information such as process identity, loaded modules (DLLs), local IP addresses, and network interfaces, demonstrating how managed code can still directly interact with the operating system. SysDoxer also includes an **Off-Sys-Level feature** which displays device Public IP (requires internet).
+A C#/.NET console tool that explores system-level information such as current process identity, loaded modules (DLLs), local IP addresses, and network interfaces, demonstrating how managed code can still directly interact with the operating system. SysDoxer also includes an **Off-Sys-Level feature** which displays device Public IP (requires internet).
 
 <img width="757" height="316" alt="image" src="https://github.com/user-attachments/assets/c241cc9f-6004-48d7-b268-76557ea27431" />
 
 # SysDoxer
-**SysDoxer** is a lightweight **C# / .NET console-based system exploration tool** that demonstrates how managed code can interact with operating system components such as processes, loaded modules (DLLs), and network interfaces.
+**SysDoxer** is a lightweight **C# / .NET console-based system exploration tool** that demonstrates how managed code can interact with operating system components such as current process identity, loaded modules (DLLs), and network interfaces.
 
 This project is driven by **curiosity, self-learning, and system-level understanding**, not academic requirements.
 
